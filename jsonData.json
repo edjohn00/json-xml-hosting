@@ -1,0 +1,29 @@
+{
+  "bookstore": {
+    "name": "CIT 305 Online Bookstore",
+    "location": "Manila, Philippines",
+    "books": [
+      {
+        "id": "B001",
+        "title": "Introduction to Microservices",
+        "author": "Ana Reyes",
+        "category": "Software Architecture",
+        "price": 550
+      },
+      {
+        "id": "B002",
+        "title": "Practical Express.js",
+        "author": "Marco Santos",
+        "category": "Web Development",
+        "price": 480
+      },
+      {
+        "id": "B003",
+        "title": "JSON and XML Integration",
+        "author": "Lia Cruz",
+        "category": "Data Exchange",
+        "price": 420
+      }
+    ]
+  }
+}
