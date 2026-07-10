@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bookstore>
-  <name>CIT 305 Online Bookstore</name>
+  <name>Islands &amp; Interfaces Technical Bookstore</name>
   <location>Manila, Philippines</location>
+  <dataset>CIT 305 Final Project XML Collection</dataset>
+  <currency>PHP</currency>
   <books>
-    <book id="B001">
-      <title>Introduction to Microservices</title>
-      <author>Ana Reyes</author>
-      <category>Software Architecture</category>
-      <price>550</price>
-    </book>
-    <book id="B002">
-      <title>Practical Express.js</title>
-      <author>Marco Santos</author>
-      <category>Web Development</category>
-      <price>480</price>
-    </book>
-    <book id="B003">
-      <title>JSON and XML Integration</title>
-      <author>Lia Cruz</author>
-      <category>Data Exchange</category>
-      <price>420</price>
-    </book>
+    <book id="X001"><title>XML Data Pipelines</title><author>Andrea Lopez</author><category>Data Integration</category><format>E-book</format><price>430</price><stock>22</stock><publishedYear>2024</publishedYear></book>
+    <book id="X002"><title>Service Discovery Fundamentals</title><author>Gabriel Reyes</author><category>Software Architecture</category><format>Paperback</format><price>610</price><stock>15</stock><publishedYear>2023</publishedYear></book>
+    <book id="X003"><title>HTTP from Client to Server</title><author>Hannah Co</author><category>Web Development</category><format>Paperback</format><price>480</price><stock>19</stock><publishedYear>2022</publishedYear></book>
+    <book id="X004"><title>Resilient API Design</title><author>Joshua Perez</author><category>API Design</category><format>Hardcover</format><price>760</price><stock>9</stock><publishedYear>2025</publishedYear></book>
+    <book id="X005"><title>Practical CI/CD</title><author>Angela Uy</author><category>DevOps</category><format>E-book</format><price>575</price><stock>24</stock><publishedYear>2024</publishedYear></book>
+    <book id="X006"><title>Container Orchestration Basics</title><author>Dennis Yu</author><category>Cloud Computing</category><format>Paperback</format><price>690</price><stock>11</stock><publishedYear>2023</publishedYear></book>
+    <book id="X007"><title>Authentication and Authorization</title><author>Liza Chua</author><category>Cybersecurity</category><format>Hardcover</format><price>815</price><stock>7</stock><publishedYear>2025</publishedYear></book>
+    <book id="X008"><title>Debugging Distributed Systems</title><author>Martin Go</author><category>Software Testing</category><format>E-book</format><price>625</price><stock>18</stock><publishedYear>2024</publishedYear></book>
+    <book id="X009"><title>Node.js Performance Tuning</title><author>Joanne Lee</author><category>Backend Development</category><format>Paperback</format><price>660</price><stock>13</stock><publishedYear>2023</publishedYear></book>
+    <book id="X010"><title>Version Control for Teams</title><author>Kevin Chan</author><category>DevOps</category><format>Paperback</format><price>510</price><stock>26</stock><publishedYear>2022</publishedYear></book>
+    <book id="X011"><title>Contract-First APIs</title><author>Teresa Diaz</author><category>API Design</category><format>E-book</format><price>585</price><stock>20</stock><publishedYear>2025</publishedYear></book>
+    <book id="X012"><title>Logging, Metrics, and Traces</title><author>Alvin Ching</author><category>Cloud Computing</category><format>Hardcover</format><price>780</price><stock>8</stock><publishedYear>2024</publishedYear></book>
+    <book id="X013"><title>Modern XML Processing</title><author>Faith Santiago</author><category>Data Integration</category><format>Paperback</format><price>535</price><stock>17</stock><publishedYear>2023</publishedYear></book>
+    <book id="X014"><title>Event-Driven Node.js</title><author>Jerome Velasco</author><category>Backend Development</category><format>E-book</format><price>640</price><stock>21</stock><publishedYear>2025</publishedYear></book>
+    <book id="X015"><title>Maintainable Microservices</title><author>Rose Castillo</author><category>Software Architecture</category><format>Hardcover</format><price>850</price><stock>5</stock><publishedYear>2024</publishedYear></book>
   </books>
 </bookstore>
+
