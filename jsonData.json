@@ -1,29 +1,26 @@
 {
   "bookstore": {
-    "name": "CIT 305 Online Bookstore",
+    "name": "Islands & Interfaces Technical Bookstore",
     "location": "Manila, Philippines",
+    "dataset": "CIT 305 Final Project JSON Collection",
+    "currency": "PHP",
     "books": [
-      {
-        "id": "B001",
-        "title": "Introduction to Microservices",
-        "author": "Ana Reyes",
-        "category": "Software Architecture",
-        "price": 550
-      },
-      {
-        "id": "B002",
-        "title": "Practical Express.js",
-        "author": "Marco Santos",
-        "category": "Web Development",
-        "price": 480
-      },
-      {
-        "id": "B003",
-        "title": "JSON and XML Integration",
-        "author": "Lia Cruz",
-        "category": "Data Exchange",
-        "price": 420
-      }
+      { "id": "J001", "title": "Building Reliable Microservices", "author": "Mara Villanueva", "category": "Software Architecture", "format": "Paperback", "price": 645, "stock": 12, "publishedYear": 2025 },
+      { "id": "J002", "title": "Express.js in Practice", "author": "Paolo Garcia", "category": "Web Development", "format": "E-book", "price": 520, "stock": 25, "publishedYear": 2024 },
+      { "id": "J003", "title": "APIs That Connect", "author": "Sofia Mendoza", "category": "API Design", "format": "Hardcover", "price": 710, "stock": 8, "publishedYear": 2023 },
+      { "id": "J004", "title": "Practical Node.js Services", "author": "Luis Navarro", "category": "Backend Development", "format": "Paperback", "price": 590, "stock": 18, "publishedYear": 2025 },
+      { "id": "J005", "title": "Cloud Native Patterns", "author": "Nina Ramos", "category": "Cloud Computing", "format": "Hardcover", "price": 820, "stock": 6, "publishedYear": 2022 },
+      { "id": "J006", "title": "Data Exchange with JSON", "author": "Carlo Dizon", "category": "Data Integration", "format": "E-book", "price": 410, "stock": 30, "publishedYear": 2024 },
+      { "id": "J007", "title": "Secure REST APIs", "author": "Bea Torres", "category": "Cybersecurity", "format": "Paperback", "price": 675, "stock": 14, "publishedYear": 2025 },
+      { "id": "J008", "title": "Docker for Student Developers", "author": "Ramon Sy", "category": "DevOps", "format": "Paperback", "price": 560, "stock": 21, "publishedYear": 2023 },
+      { "id": "J009", "title": "Testing JavaScript Backends", "author": "Iris Bautista", "category": "Software Testing", "format": "E-book", "price": 495, "stock": 27, "publishedYear": 2024 },
+      { "id": "J010", "title": "GitHub Workflows Made Clear", "author": "Noel Flores", "category": "DevOps", "format": "Paperback", "price": 540, "stock": 19, "publishedYear": 2022 },
+      { "id": "J011", "title": "Designing Service Contracts", "author": "Camille Aquino", "category": "API Design", "format": "Hardcover", "price": 735, "stock": 10, "publishedYear": 2025 },
+      { "id": "J012", "title": "Observability Essentials", "author": "Victor Lim", "category": "Cloud Computing", "format": "E-book", "price": 610, "stock": 16, "publishedYear": 2023 },
+      { "id": "J013", "title": "Async JavaScript Explained", "author": "Elena Cruz", "category": "Web Development", "format": "Paperback", "price": 455, "stock": 23, "publishedYear": 2024 },
+      { "id": "J014", "title": "Database Patterns for APIs", "author": "Miguel Tan", "category": "Backend Development", "format": "Hardcover", "price": 790, "stock": 7, "publishedYear": 2022 },
+      { "id": "J015", "title": "Scaling Small Services", "author": "Patricia Ong", "category": "Software Architecture", "format": "E-book", "price": 650, "stock": 20, "publishedYear": 2025 }
     ]
   }
 }
+
